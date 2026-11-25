@@ -1,0 +1,162 @@
+[
+  {
+    "id": "default_frame",
+    "name": "Default frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/6/60/Defaultframe.png"
+  },
+  {
+    "id": "birthday_frame",
+    "name": "Birthday frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/6/6e/Birthday2024frame.png"
+  },
+  {
+    "id": "hollywood_frame",
+    "name": "Hollywood frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/0/09/Hollywood2024frame.png"
+  },
+  {
+    "id": "summer_frame",
+    "name": "Summer frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/53/Summer2024frame.png"
+  },
+  {
+    "id": "lava_frame",
+    "name": "Lava frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/4/46/Lavaframe.png"
+  },
+  {
+    "id": "plant_frame",
+    "name": "Plant frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/c/cd/Plantframe.png"
+  },
+  {
+    "id": "club_frame",
+    "name": "Club frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/f/f9/Clubframe.png"
+  },
+  {
+    "id": "pride_frame",
+    "name": "Pride frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/6/6d/PrideFrame.png"
+  },
+  {
+    "id": "oxfordgreen_frame",
+    "name": "Oxford (Green) frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/3/3c/Oxford_green_frame.png"
+  },
+  {
+    "id": "oxfordred_frame",
+    "name": "Oxford (Red) frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/8/8e/Oxford_red_frame.png"
+  },
+  {
+    "id": "brawlstars_frame",
+    "name": "Brawl Stars frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/58/Brawlstars_frame.png"
+  },
+  {
+    "id": "gems_frame",
+    "name": "Gems frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/5f/Brawlstars_gems_frame.png"
+  },
+  {
+    "id": "pumpkin_frame",
+    "name": "Pumpkin frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/1/11/Pumpkin_frame.png"
+  },
+  {
+    "id": "diademuertos_frame",
+    "name": "Dia De Muertos frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/55/Diademuertos_frame.png"
+  },
+  {
+    "id": "gingerbread_frame",
+    "name": "Gingerbread frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/a/ac/Gingerbread_frame.png"
+  },
+  {
+    "id": "candycane_frame",
+    "name": "Candy Cane frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/0/07/Candycane_frame.png"
+  },
+  {
+    "id": "glorx_frame",
+    "name": "Glorx frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/4/45/Glorx_frame.png"
+  },
+  {
+    "id": "cinema_frame",
+    "name": "Cinema frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/3/37/Cinema_frame.png"
+  },
+  {
+    "id": "winter_frame",
+    "name": "Winter frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/c/c7/Winter_frame.png"
+  },
+  {
+    "id": "shamrock_frame",
+    "name": "Shamrock frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/d/d9/Shamrock_frame.png"
+  },
+  {
+    "id": "easteregg_frame",
+    "name": "Easter Egg frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/0/03/Easter_Egg_frame.png"
+  },
+  {
+    "id": "koi_frame",
+    "name": "Koi frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/c/c8/Koi_frame.png"
+  },
+  {
+    "id": "earthday_frame",
+    "name": "Earth Day frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/3/36/Earth_Day_frame.png"
+  },
+  {
+    "id": "blob_frame",
+    "name": "Blob frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/c/c6/Blob_frame.png"
+  },
+  {
+    "id": "wave_frame",
+    "name": "Wave frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/d/d3/Wave_frame.png"
+  },
+  {
+    "id": "midsummer_frame",
+    "name": "Midsummer frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/4/4f/Midsummer_frame.png"
+  },
+  {
+    "id": "football_frame",
+    "name": "Football frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/56/Football_frame.png"
+  },
+  {
+    "id": "draco_frame",
+    "name": "Draco frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/3/31/Dragon_frame.png"
+  },
+  {
+    "id": "galaxy_frame",
+    "name": "Galaxy frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/e/e2/Galaxy_frame.png"
+  },
+  {
+    "id": "comic_frame",
+    "name": "Comic frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/6/66/Comic_frame.png"
+  },
+  {
+    "id": "sanctuary_frame",
+    "name": "Sanctuary Frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/2/21/Sanctuary_frame.png"
+  },
+  {
+    "id": "panda_frame",
+    "name": "Panda Frame",
+    "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/5/5a/Panda_frame.png"
+  }
+]
