@@ -1488,5 +1488,11 @@
     "id": "meihua",
     "name": "Meihua",
     "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/d/d5/M%C3%A9ihua1.png"
-  }
+  },
+  {
+     "id": "queenofcards",
+     "name": "Queen of Cards",
+     "imageUrl": "https://static.wikia.nocookie.net/subwaysurf/images/a/a7/QueenofCards1.png"
+   }
+
 ]
